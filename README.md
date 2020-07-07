@@ -1,4 +1,4 @@
 # Online Photo Editor
 
-Just a demo :smiley: :  [click to view](https://mettyz.github.io/OnlinePS) 
+Team06 SE Course Project :smiley: :  [click to view](https://mettyz.github.io/OnlinePS) 
 
